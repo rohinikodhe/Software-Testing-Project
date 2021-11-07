@@ -1,0 +1,39 @@
+body{
+	background-image:url(img27.jpg);
+	-webkit-background-size:cover;
+	font-family:arial;
+	margin:0;
+	padding:0;
+
+}
+
+.glass{
+	
+	float:left;
+	margin-right:40px;
+	margin-left:80px;
+	padding:20px;
+	margin-top:50px;
+	
+}
+
+.show-btn{
+	 font-size:50;
+	color:white;
+	margin-top:50px;
+	padding: 12px 87px;
+	margin-left:300px;
+	padding:30px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
